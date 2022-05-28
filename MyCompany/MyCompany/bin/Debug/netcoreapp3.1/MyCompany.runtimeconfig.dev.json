@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vamba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vamba\\.nuget\\packages"
+    ]
+  }
+}
